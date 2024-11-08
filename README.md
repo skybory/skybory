@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![하늘보리의 능력치](https://github-readme-stats.vercel.app/api?username=skybory)](https://github.com/skybory/github-readme-stats)
+수협중앙회 가자..!
